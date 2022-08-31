@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahithatenneti
 - 👀 I’m interested in coding and electronics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and webdevelopment
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me mailid:tmahitha1002@gmail.com
 
